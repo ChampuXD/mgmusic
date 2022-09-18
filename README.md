@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/bfa2fbaf65ac04fad78ee.jpg">
 </p>
 
-<h1 align="center"><b> GodfatherBot Robot  </b></h1>
+<h1 align="center"><b> Mukesh Robot  </b></h1>
 
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
@@ -15,8 +15,8 @@
 ## Available on Telegram as [@TGN_Ro_bot](https://t.me/YurikoRobot)
 
 # ❤️ Support
-<a href="https://t.me/The_Godfather_Network"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/GodfatherSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/mastermind_network_official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/the_support_chat"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 ## 🇮🇳 Heroku Deploy 🇮🇳
@@ -25,13 +25,3 @@ The easiest way to deploy this Bot is via Heroku.
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Noob-Mukesh/MukeshRobot2"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-
-## CREDIT
-```
-Shubhanshu (Null-coder)
-Akki
-Zaid
-```
-
- 
-```
