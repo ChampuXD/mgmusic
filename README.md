@@ -12,7 +12,6 @@
 
 <p align="center"><a href="https://t.me/TGN_Ro_bot"><img src="(https://telegra.ph/file/e641d3dd2ccdce6a3d934.jpg)" width="400"></a></p>
 
-## Available on Telegram as [@TGN_Ro_bot](https://t.me/YurikoRobot)
 
 # ❤️ Support
 <a href="https://t.me/mastermind_network_official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
