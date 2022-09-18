@@ -1,5 +1,5 @@
 {
-      "name": "TGN-Robot",
+      "name": "MukeshRobot2",
       "description": "A Powerful  Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -10,7 +10,7 @@
       ],
     
    "logo":    "https://telegra.ph/file/ddfcd6fc8386a39613704.jpg",  
-   "repository": "https://github.com/Godfatherakkii/TGN-ROBOT",
+   "repository": "https://github.com/Noob-mukesh/MukeshRobot2",
    "addons": [
           {
          "options": {
@@ -51,7 +51,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "828959161"
+         "value": "5207640479"
      },
 
       "HEROKU_API_KEY": {
@@ -74,7 +74,7 @@
 
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "shado_hackers"
+         "value": "itz_mst_boi"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
@@ -97,12 +97,12 @@
      "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001306080448"
+         "value": "-1001770762410"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-1001306080448"
+         "value": "-1001770762410"
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
@@ -196,7 +196,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://www.paypal.me/yourlink"
+         "value": "https://t.me/itz_mst_boi"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
@@ -204,7 +204,8 @@
       },
         "ARQ_API": {
             "description": "Get this from @ARQRobot.",
-            "required": true
+            "required": true,
+            "value": "LNLIQM-EJYNGW-DBYJIU-GSSEPQ-ARQ"
         },
       "BAN_STICKER": {
          "description": "ID of the sticker you want to use when banning people.",
