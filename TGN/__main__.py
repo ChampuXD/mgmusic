@@ -27,8 +27,8 @@ from telegram.ext.dispatcher import DispatcherHandlerStop, run_async
 from telegram.utils.helpers import escape_markdown
 from telethon import __version__ as tlhver
 
-import MukeshRobot.modules.sql.users_sql as sql
-from MukeshRobot import (
+import TGN.modules.sql.users_sql as sql
+from TGN import (
     BOT_NAME,
     CERT_PATH,
     DONATION_LINK,
@@ -50,9 +50,9 @@ from MukeshRobot import (
 
 # needed to dynamically load modules
 # NOTE: Module order is not guaranteed, specify that in the config file!
-from MukeshRobot.modules import ALL_MODULES
-from MukeshRobot.modules.helper_funcs.chat_status import is_user_admin
-from MukeshRobot.modules.helper_funcs.misc import paginate_modules
+from TGN.modules import ALL_MODULES
+from TGN.modules.helper_funcs.chat_status import is_user_admin
+from TGN.modules.helper_funcs.misc import paginate_modules
 
 
 def get_readable_time(seconds: int) -> str:
@@ -138,7 +138,7 @@ CHAT_SETTINGS = {}
 USER_SETTINGS = {}
 
 for module_name in ALL_MODULES:
-    imported_module = importlib.import_module("MukeshRobot.modules." + module_name)
+    imported_module = importlib.import_module("TGN.modules." + module_name)
     if not hasattr(imported_module, "__mod_name__"):
         imported_module.__mod_name__ = imported_module.__name__
 
@@ -414,7 +414,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="sᴏᴜʀᴄᴇ",
-                            url="https://github.com/noob-mukesh/MukeshRobot",
+                            url="https://github.com/noob-mukesh/mukeshrobotv2",
                         ),
                     ],
                     [
