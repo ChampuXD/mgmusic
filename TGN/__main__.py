@@ -35,7 +35,6 @@ from TGN import (
     OWNER_ID,
     OWNER_USERNAME,
     PORT,
-    START_IMG,
     SUPPORT_CHAT,
     TOKEN,
     URL,
