@@ -29,7 +29,6 @@ from telethon import __version__ as tlhver
 
 import TGN.modules.sql.users_sql as sql
 from TGN import (
-    BOT_NAME,
     CERT_PATH,
     DONATION_LINK,
     LOGGER,
