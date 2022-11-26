@@ -118,7 +118,7 @@ HELP_STRINGS = f"""
 ➲  /mhelp  ᴛᴏ ɢᴇᴛ  ᴀʟʟ ᴍᴜsɪᴄ ʜᴇʟᴘ ᴄᴏᴍᴍᴀɴᴅs.
 ➲  /malive  ᴛᴏ ᴄʜᴇᴀᴋ  ᴍᴜsɪᴄ ʙᴏᴛ ᴀʟɪᴠᴇ ᴏʀ  ғᴜᴍᴋᴇᴅ.
 ➲  ᴍᴜsɪᴄ ᴀssɪsᴛᴀɴᴛ ᴜsᴇʀɴᴀᴍᴇ 
-  ➪ @Itzlengendmukesh . """
+  ➪ @TheShivanshu. """
 
 DONATE_STRING = """ʜᴇʏ ʙᴀʙʏ,
   ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴏɴᴀᴛᴇ.
